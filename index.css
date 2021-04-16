@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    margin-top: 200px;
+    color: darkblue
+    
+}
+
+button {
+    background-color: greenyellow;
+    border-radius: 20px;
+    border-color: red;
+}
